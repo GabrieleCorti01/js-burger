@@ -1,0 +1,22 @@
+
+.container{
+    width: 900px;
+}
+
+#container-header{
+    background-color: orange;
+}
+
+#container-footer{
+    background-color: crimson;
+    color: white;
+}
+
+#main-section img{
+    width: 70px;
+}
+
+#bottone-calcolo-prezzo{
+    border-radius: 10px;
+    font-weight: bold;
+}
